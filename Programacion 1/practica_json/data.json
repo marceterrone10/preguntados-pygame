@@ -1,0 +1,81 @@
+{
+    "Personas": [
+        {
+            "id": 2,
+            "nombre": "Lorenzo",
+            "genero": "F",
+            "anio": 1999,
+            "legajo": 1888
+        },
+        {
+            "id": 6,
+            "nombre": "Lorenzo",
+            "genero": "M",
+            "anio": 2003,
+            "legajo": 1777
+        },
+        {
+            "id": 3,
+            "nombre": "Lucila",
+            "genero": "F",
+            "anio": 2003,
+            "legajo": 1999
+        },
+        {
+            "id": 4,
+            "nombre": "Karina",
+            "genero": "M",
+            "anio": 2003,
+            "legajo": 1011
+        },
+        {
+            "id": 7,
+            "nombre": "Pedritozera",
+            "genero": "NB",
+            "anio": 1999,
+            "legajo": 1111
+        },
+        {
+            "id": 1,
+            "nombre": "Pepe",
+            "genero": "M",
+            "anio": 1990,
+            "legajo": 1888
+        },
+        {
+            "id": 5,
+            "nombre": "Pepe",
+            "genero": "NB",
+            "anio": 1999,
+            "legajo": 1000
+        },
+        {
+            "id": 8,
+            "nombre": "Pedroitaquera",
+            "genero": "NB",
+            "anio": 1999,
+            "legajo": 1000
+        },
+        {
+            "id": 9,
+            "nombre": "mARCELO",
+            "genero": "M",
+            "anio": 1999,
+            "legajo": 1777
+        },
+        {
+            "id": 10,
+            "nombre": "Pepito",
+            "genero": "M",
+            "anio": 1999,
+            "legajo": 1888
+        },
+        {
+            "id": 11,
+            "nombre": "Agus",
+            "genero": "F",
+            "anio": 1999,
+            "legajo": 1768
+        }
+    ]
+}
